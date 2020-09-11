@@ -10,9 +10,9 @@
 1. 9/9 - 9/15
 	* Manager: Lucas Chronister
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Make a make file
+		1. Have everyone make a credits page
+		1. Successfully put all of the credits together
 		...
 1. 9/16 - 9/22
 	* Manager: Ryan Yang
